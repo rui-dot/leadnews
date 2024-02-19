@@ -26,8 +26,8 @@ spring:
     password: leadnews
     port: 6379
 aliyun:
-  accessKeyId: LTAI5tKq4gtQa6MmJ8vHwSjV
-  secret: PdtQYf0Qjqzly3EeBtrcLVqlISu2cC
+  accessKeyId: 
+  secret: 
   #  aliyun.scenes=porn,terrorism,ad,qrcode,live,logo
   scenes: terrorism
 feign:
